@@ -1,0 +1,14 @@
+Start Server Command :
+npm run devStart
+
+
+Code : 
+https://www.youtube.com/watch?v=fgTGADljAeg
+
+Mongo DB Install : 
+https://www.youtube.com/watch?v=gB6WLkSrtJk
+https://www.youtube.com/watch?v=wcx3f0eUiAw
+https://www.youtube.com/watch?v=ofme2o29ngU
+
+
+
